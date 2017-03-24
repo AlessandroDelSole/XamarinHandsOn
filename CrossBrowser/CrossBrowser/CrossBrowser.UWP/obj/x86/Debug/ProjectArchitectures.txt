@@ -1,0 +1,2 @@
+C:\Users\proga\Downloads\XamarinAzureEBook-master\CrossBrowser\CrossBrowser\CrossBrowser.UWP\CrossBrowser.UWP.csproj;x86
+C:\Users\proga\Downloads\XamarinAzureEBook-master\CrossBrowser\CrossBrowser\CrossBrowser\CrossBrowser.csproj;neutral

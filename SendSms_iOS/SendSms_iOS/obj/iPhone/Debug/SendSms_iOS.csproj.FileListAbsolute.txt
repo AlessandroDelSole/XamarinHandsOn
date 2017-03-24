@@ -1,0 +1,11 @@
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\bin\iPhone\Debug\SendSms_iOS.exe
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\bin\iPhone\Debug\SendSms_iOS.pdb
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\obj\iPhone\Debug\optimized\
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\obj\iPhone\Debug\SendSms_iOS.csprojResolveAssemblyReference.cache
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\obj\iPhone\Debug\SendSms_iOS.exe
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\obj\iPhone\Debug\SendSms_iOS.pdb
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\obj\iPhone\Debug\SendSms_iOS.exe.mdb
+C:\Users\proga\Downloads\XamarinAzureEBook-master\SendSms_iOS\SendSms_iOS\bin\iPhone\Debug\SendSms_iOS.exe.mdb

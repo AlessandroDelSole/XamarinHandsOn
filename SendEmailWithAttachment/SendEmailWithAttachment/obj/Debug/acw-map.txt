@@ -1,0 +1,4 @@
+SendEmailWithAttachment.MainActivity, SendEmailWithAttachment;md50340d90d2a1c3868e0dd9926dbbe02d6.MainActivity
+SendEmailWithAttachment.MainActivity, SendEmailWithAttachment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50340d90d2a1c3868e0dd9926dbbe02d6.MainActivity
+SendEmailWithAttachment.MainActivity;md50340d90d2a1c3868e0dd9926dbbe02d6.MainActivity
+sendemailwithattachment.MainActivity;md50340d90d2a1c3868e0dd9926dbbe02d6.MainActivity
